@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/devaryanjain/leetcode-github/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/devaryanjain/leetcode-github/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/devaryanjain/leetcode-github/tree/master/0064-minimum-path-sum) |
+| [0075-sort-colors](https://github.com/devaryanjain/leetcode-github/tree/master/0075-sort-colors) |
 | [0152-maximum-product-subarray](https://github.com/devaryanjain/leetcode-github/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/devaryanjain/leetcode-github/tree/master/0198-house-robber) |
 ## Dynamic Programming
@@ -33,8 +34,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/devaryanjain/leetcode-github/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/devaryanjain/leetcode-github/tree/master/0075-sort-colors) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/devaryanjain/leetcode-github/tree/master/0053-maximum-subarray) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/devaryanjain/leetcode-github/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
