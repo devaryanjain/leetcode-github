@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/devaryanjain/leetcode-github/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/devaryanjain/leetcode-github/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/devaryanjain/leetcode-github/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/devaryanjain/leetcode-github/tree/master/0056-merge-intervals) |
@@ -77,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/devaryanjain/leetcode-github/tree/master/0062-unique-paths) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/devaryanjain/leetcode-github/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
