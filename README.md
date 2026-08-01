@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/devaryanjain/leetcode-github/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/devaryanjain/leetcode-github/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/devaryanjain/leetcode-github/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/devaryanjain/leetcode-github/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/devaryanjain/leetcode-github/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/devaryanjain/leetcode-github/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/devaryanjain/leetcode-github/tree/master/0064-minimum-path-sum) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/devaryanjain/leetcode-github/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/devaryanjain/leetcode-github/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/devaryanjain/leetcode-github/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/devaryanjain/leetcode-github/tree/master/0540-single-element-in-a-sorted-array) |
