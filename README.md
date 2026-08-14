@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/devaryanjain/leetcode-github/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/devaryanjain/leetcode-github/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/devaryanjain/leetcode-github/tree/master/0160-intersection-of-two-linked-lists) |
+| [0234-palindrome-linked-list](https://github.com/devaryanjain/leetcode-github/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/devaryanjain/leetcode-github/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/devaryanjain/leetcode-github/tree/master/0876-middle-of-the-linked-list) |
 ## Divide and Conquer
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/devaryanjain/leetcode-github/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/devaryanjain/leetcode-github/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/devaryanjain/leetcode-github/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/devaryanjain/leetcode-github/tree/master/0234-palindrome-linked-list) |
 ## Combinatorics
 |  |
 | ------- |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/devaryanjain/leetcode-github/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/devaryanjain/leetcode-github/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/devaryanjain/leetcode-github/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/devaryanjain/leetcode-github/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/devaryanjain/leetcode-github/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/devaryanjain/leetcode-github/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/devaryanjain/leetcode-github/tree/master/0876-middle-of-the-linked-list) |
@@ -161,4 +164,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/devaryanjain/leetcode-github/tree/master/0148-sort-list) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/devaryanjain/leetcode-github/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
