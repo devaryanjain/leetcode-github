@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/devaryanjain/leetcode-github/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/devaryanjain/leetcode-github/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/devaryanjain/leetcode-github/tree/master/0206-reverse-linked-list) |
+| [0237-delete-node-in-a-linked-list](https://github.com/devaryanjain/leetcode-github/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/devaryanjain/leetcode-github/tree/master/0876-middle-of-the-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
