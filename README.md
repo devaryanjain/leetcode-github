@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/devaryanjain/leetcode-github/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/devaryanjain/leetcode-github/tree/master/0020-valid-parentheses) |
 | [0072-edit-distance](https://github.com/devaryanjain/leetcode-github/tree/master/0072-edit-distance) |
 | [0516-longest-palindromic-subsequence](https://github.com/devaryanjain/leetcode-github/tree/master/0516-longest-palindromic-subsequence) |
 ## Two Pointers
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/devaryanjain/leetcode-github/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/devaryanjain/leetcode-github/tree/master/0042-trapping-rain-water) |
 | [0225-implement-stack-using-queues](https://github.com/devaryanjain/leetcode-github/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/devaryanjain/leetcode-github/tree/master/0232-implement-queue-using-stacks) |
@@ -205,4 +207,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/devaryanjain/leetcode-github/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/devaryanjain/leetcode-github/tree/master/0232-implement-queue-using-stacks) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/devaryanjain/leetcode-github/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
