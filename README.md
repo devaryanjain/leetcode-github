@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/devaryanjain/leetcode-github/tree/master/0042-trapping-rain-water) |
+| [0225-implement-stack-using-queues](https://github.com/devaryanjain/leetcode-github/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/devaryanjain/leetcode-github/tree/master/0234-palindrome-linked-list) |
 ## Monotonic Stack
 |  |
@@ -189,4 +190,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/devaryanjain/leetcode-github/tree/master/0039-combination-sum) |
 | [0090-subsets-ii](https://github.com/devaryanjain/leetcode-github/tree/master/0090-subsets-ii) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/devaryanjain/leetcode-github/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/devaryanjain/leetcode-github/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
