@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/devaryanjain/leetcode-github/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/devaryanjain/leetcode-github/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/devaryanjain/leetcode-github/tree/master/0540-single-element-in-a-sorted-array) |
+| [0735-asteroid-collision](https://github.com/devaryanjain/leetcode-github/tree/master/0735-asteroid-collision) |
 | [0875-koko-eating-bananas](https://github.com/devaryanjain/leetcode-github/tree/master/0875-koko-eating-bananas) |
 ## Dynamic Programming
 |  |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/devaryanjain/leetcode-github/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/devaryanjain/leetcode-github/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/devaryanjain/leetcode-github/tree/master/0496-next-greater-element-i) |
+| [0735-asteroid-collision](https://github.com/devaryanjain/leetcode-github/tree/master/0735-asteroid-collision) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -211,4 +213,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/devaryanjain/leetcode-github/tree/master/0020-valid-parentheses) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/devaryanjain/leetcode-github/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
