@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/devaryanjain/leetcode-github/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/devaryanjain/leetcode-github/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/devaryanjain/leetcode-github/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/devaryanjain/leetcode-github/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0072-edit-distance](https://github.com/devaryanjain/leetcode-github/tree/master/0072-edit-distance) |
 | [0151-reverse-words-in-a-string](https://github.com/devaryanjain/leetcode-github/tree/master/0151-reverse-words-in-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/devaryanjain/leetcode-github/tree/master/0516-longest-palindromic-subsequence) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/devaryanjain/leetcode-github/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/devaryanjain/leetcode-github/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/devaryanjain/leetcode-github/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/devaryanjain/leetcode-github/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/devaryanjain/leetcode-github/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/devaryanjain/leetcode-github/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/devaryanjain/leetcode-github/tree/master/0075-sort-colors) |
@@ -230,17 +232,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/devaryanjain/leetcode-github/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0686-repeated-string-match](https://github.com/devaryanjain/leetcode-github/tree/master/0686-repeated-string-match) |
 ## Z Algorithm
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/devaryanjain/leetcode-github/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0686-repeated-string-match](https://github.com/devaryanjain/leetcode-github/tree/master/0686-repeated-string-match) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/devaryanjain/leetcode-github/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0686-repeated-string-match](https://github.com/devaryanjain/leetcode-github/tree/master/0686-repeated-string-match) |
 ## Boyer–Moore String-Search Algorithm
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/devaryanjain/leetcode-github/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0686-repeated-string-match](https://github.com/devaryanjain/leetcode-github/tree/master/0686-repeated-string-match) |
 <!---LeetCode Topics End-->
