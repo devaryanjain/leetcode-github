@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/devaryanjain/leetcode-github/tree/master/0072-edit-distance) |
 | [0151-reverse-words-in-a-string](https://github.com/devaryanjain/leetcode-github/tree/master/0151-reverse-words-in-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/devaryanjain/leetcode-github/tree/master/0516-longest-palindromic-subsequence) |
+| [0686-repeated-string-match](https://github.com/devaryanjain/leetcode-github/tree/master/0686-repeated-string-match) |
 ## Two Pointers
 |  |
 | ------- |
@@ -226,4 +227,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/devaryanjain/leetcode-github/tree/master/0005-longest-palindromic-substring) |
+## String Matching
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/devaryanjain/leetcode-github/tree/master/0686-repeated-string-match) |
+## Z Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/devaryanjain/leetcode-github/tree/master/0686-repeated-string-match) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/devaryanjain/leetcode-github/tree/master/0686-repeated-string-match) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/devaryanjain/leetcode-github/tree/master/0686-repeated-string-match) |
 <!---LeetCode Topics End-->
