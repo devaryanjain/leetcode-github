@@ -23,8 +23,8 @@ class Solution {
         for(int i = 1 ; i < n; i++)
         {
             int cost = prices[i] - mini;
-            maxP = Math.max(maxP , cost);
             mini = Math.min(mini, prices[i]);
+            maxP = Math.max(maxP , cost);
         }
         return maxP;
     }
