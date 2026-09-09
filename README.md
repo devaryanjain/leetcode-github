@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/devaryanjain/leetcode-github/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/devaryanjain/leetcode-github/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/devaryanjain/leetcode-github/tree/master/0062-unique-paths) |
+| [0172-factorial-trailing-zeroes](https://github.com/devaryanjain/leetcode-github/tree/master/0172-factorial-trailing-zeroes) |
 ## Recursion
 |  |
 | ------- |
