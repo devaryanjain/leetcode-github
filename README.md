@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/devaryanjain/leetcode-github/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/devaryanjain/leetcode-github/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/devaryanjain/leetcode-github/tree/master/0287-find-the-duplicate-number) |
+| [0435-non-overlapping-intervals](https://github.com/devaryanjain/leetcode-github/tree/master/0435-non-overlapping-intervals) |
 | [0485-max-consecutive-ones](https://github.com/devaryanjain/leetcode-github/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/devaryanjain/leetcode-github/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/devaryanjain/leetcode-github/tree/master/0540-single-element-in-a-sorted-array) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/devaryanjain/leetcode-github/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/devaryanjain/leetcode-github/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/devaryanjain/leetcode-github/tree/master/0198-house-robber) |
+| [0435-non-overlapping-intervals](https://github.com/devaryanjain/leetcode-github/tree/master/0435-non-overlapping-intervals) |
 | [0516-longest-palindromic-subsequence](https://github.com/devaryanjain/leetcode-github/tree/master/0516-longest-palindromic-subsequence) |
 ## Matrix
 |  |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/devaryanjain/leetcode-github/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/devaryanjain/leetcode-github/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/devaryanjain/leetcode-github/tree/master/0229-majority-element-ii) |
+| [0435-non-overlapping-intervals](https://github.com/devaryanjain/leetcode-github/tree/master/0435-non-overlapping-intervals) |
 ## Binary Search
 |  |
 | ------- |
@@ -297,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/devaryanjain/leetcode-github/tree/master/0011-container-with-most-water) |
+| [0435-non-overlapping-intervals](https://github.com/devaryanjain/leetcode-github/tree/master/0435-non-overlapping-intervals) |
 ## Quicksort
 |  |
 | ------- |
