@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/devaryanjain/leetcode-github/tree/master/0540-single-element-in-a-sorted-array) |
 | [0735-asteroid-collision](https://github.com/devaryanjain/leetcode-github/tree/master/0735-asteroid-collision) |
 | [0875-koko-eating-bananas](https://github.com/devaryanjain/leetcode-github/tree/master/0875-koko-eating-bananas) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/devaryanjain/leetcode-github/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/devaryanjain/leetcode-github/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/devaryanjain/leetcode-github/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/devaryanjain/leetcode-github/tree/master/0496-next-greater-element-i) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/devaryanjain/leetcode-github/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Union-Find
 |  |
 | ------- |
@@ -336,4 +338,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1683-invalid-tweets](https://github.com/devaryanjain/leetcode-github/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/devaryanjain/leetcode-github/tree/master/1757-recyclable-and-low-fat-products) |
 | [1934-confirmation-rate](https://github.com/devaryanjain/leetcode-github/tree/master/1934-confirmation-rate) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/devaryanjain/leetcode-github/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/devaryanjain/leetcode-github/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
